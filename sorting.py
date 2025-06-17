@@ -1,6 +1,6 @@
 import os
 import shutil
-path1="C:\\Users\\Akuma\\Downloads"#put the location of the folder which u want to sort files from
+path1="D:\\organizer"#put the location of the folder which u want to sort files from
 path2="D:\\organizer"#put the location of the folder which u want to sort files to (can be same as source)
 
 #dont change anything in the below section unless you know what you are doing
